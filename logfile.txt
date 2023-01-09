@@ -1,0 +1,4 @@
+Time Step Status Description
+"2023-01-09 07:02:51.941654" "Read benefit file" Complete "Benefit PDF load completed"
+"2023-01-09 07:02:51.943615" "Read in template" Complete "Template load completed"
+"2023-01-09 07:02:51.995512" "Complete template" Complete "Completed template written"
